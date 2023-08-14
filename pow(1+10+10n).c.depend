@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692034335 source:c:\users\user\desktop\desk\zino c example\pow(1+10+10n).c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
